@@ -1,3 +1,10 @@
+.project-item img {
+    width: 396px;
+    height: 180px;
+    display: block;
+    object-fit: cover;
+}
+
 .fourth-content img {
    border: 1px solid lightgray;  
 } 
